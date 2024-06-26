@@ -18,10 +18,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.irsjrhr.AppsWeather"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "87a9abfb-7d20-40ab-97c9-88a41a3e9e49"
+      }
+    },
+    "owner": "irsjrhr"
   }
 }
